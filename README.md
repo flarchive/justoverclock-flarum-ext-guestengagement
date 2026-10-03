@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of justoverclock/flarum-ext-guestengagement.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/flarum-ext-guestengagement) or the [upstream repository](https://github.com/justoverclockl/flarum-ext-guestengagement).
 
-**0** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^1.0.0`
+**12** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-04-24 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-04-25 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-04-25 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-04-27 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-04-27 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tree/archive/v0.1.4) |
+| `0.1.5` | 2021-04-30 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tree/archive/v0.1.5) |
+| `0.1.6` | 2021-05-10 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tree/archive/v0.1.6) |
+| `0.1.7` | 2021-05-17 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tree/archive/v0.1.7) |
+| `1.0.0` | 2021-06-08 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tree/archive/v1.0.0) |
+| `1.0.1` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tree/archive/v1.0.1) |
+
+[View all 12 versions](https://github.com/flarchive/justoverclock-flarum-ext-guestengagement/tags)
 
 Catalog entry: [packages/justoverclock-flarum-ext-guestengagement.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-flarum-ext-guestengagement.json)
 
